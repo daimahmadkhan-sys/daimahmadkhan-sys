@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi 👋 I'm Daim Khan
 
-<!--
-**daimahmadkhan-sys/daimahmadkhan-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend-focused Developer transitioning to Full Stack  
+BCA Student | India  
+Open to Internship Opportunities
+India
+---
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a frontend-focused developer with strong fundamentals in HTML, CSS, JavaScript, and React.  
+Currently transitioning into full stack development by learning Node.js, Express, and MongoDB.
+
+My goal is to become industry-ready within the next 3 months by building practical, real-world applications.
+
+---
+
+## Technical Skills
+
+Frontend:
+- HTML
+- CSS
+- JavaScript
+- React
+
+Backend (Learning):
+- Node.js
+- Express.js
+- MongoDB
+
+Tools:
+- Git
+- GitHub
+
+---
+
+## Current Focus
+
+- Backend API development
+- Database integration
+- Authentication systems
+- Writing cleaner, production-ready code
+
+---
+
+## Career Objective
+
+Seeking a frontend or full stack internship where I can contribute, learn from experienced developers, and build scalable applications.
+
+---
+
+## 2026 Goals
+
+- Build 4 full-stack projects
+- Master backend fundamentals
+- Secure a professional internship
+- Contribute to open-source projects
