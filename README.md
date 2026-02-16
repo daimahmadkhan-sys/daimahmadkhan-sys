@@ -3,7 +3,7 @@
 Frontend-focused Developer transitioning to Full Stack  
 BCA Student | India  
 Open to Internship Opportunities
-India
+
 ---
 
 ## About Me
@@ -31,7 +31,8 @@ Backend (Learning):
 Tools:
 - Git
 - GitHub
-
+- Vercel
+- 
 ---
 
 ## Current Focus
@@ -51,7 +52,7 @@ Seeking a frontend or full stack internship where I can contribute, learn from e
 
 ## 2026 Goals
 
-- Build 4 full-stack projects
+- Build 2 full-stack projects
 - Master backend fundamentals
 - Secure a professional internship
 - Contribute to open-source projects
